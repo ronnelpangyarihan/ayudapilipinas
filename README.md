@@ -1,7 +1,7 @@
 # Ayuda Pilipinas
 [![License](https://img.shields.io/badge/license-ALv2-blue.svg)](./LICENSE)
 
-This is the Ayuda Pilipinas Website.
+This is the Ayuda Pilipinas Website developed by Usbong.
 
 # Open Source Software License
 Copyright 2015 Usbong Social Systems, Inc.
